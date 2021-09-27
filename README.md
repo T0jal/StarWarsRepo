@@ -1,6 +1,5 @@
 # Star Wars Repo
-
-![./mando.jpg](Mando!)
+![Mando!](./mando.jpg)
 
 Este repositório serve de exemplo ao curso de Git e Github.
 
